@@ -54,8 +54,3 @@ https://github.com/devicons/devicon/tree/master/icons
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expanxara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<tr>
-    <td colspan="2" align="center">
-        <details open><summary></summary><img src="ttps://github.com/expanxara/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-    </td>
-  </tr>
