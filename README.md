@@ -52,5 +52,5 @@ https://github.com/devicons/devicon/tree/master/icons
 
 <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expanxara)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expanxara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
