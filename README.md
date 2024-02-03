@@ -1,10 +1,13 @@
+<!--
 <div id="badges">
   <a href="https://t.me/expanxara">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
 </div>
 
+
 ---
+-->
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
