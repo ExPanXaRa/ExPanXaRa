@@ -47,7 +47,10 @@ https://github.com/devicons/devicon/tree/master/icons
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=expanxara
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=expanxara&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expanxara)](https://github.com/anuraghazra/github-readme-stats)
 
