@@ -56,6 +56,6 @@ https://github.com/devicons/devicon/tree/master/icons
 
 <tr>
     <td colspan="2" align="center">
-        <details open><summary></summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+        <details open><summary></summary><img src="https://github.com/ExPanXaRa?tab=repositories" alt=""></img></details>
     </td>
   </tr>
