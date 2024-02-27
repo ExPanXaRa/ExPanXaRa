@@ -13,8 +13,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 🌱 I’m currently learning in Moscow Polytech University and School21
 - 📫 How to reach me: [![Telegram badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/expanxara)
-- 
-![hidden](https://komarev.com/ghpvc/?username=expanxara)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
