@@ -11,7 +11,8 @@
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- 🌱 I’m currently learning in Moscow Polytech University and School21
+- now working in Sber
+- 🌱 Ex Student Moscow Polytech University and School21
 - 📫 How to reach me: [![Telegram badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/expanxara)
 
 <!--
